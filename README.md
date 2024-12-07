@@ -3,18 +3,19 @@
 Discord aoi.js bot
 
 # Kurulum
-nodejs 16.20.2 sürümünü indirin.
+◽nodejs 16.20.2 sürümünü indirin.
 
-projeyi masa üstüne atın.
+◽projeyi masa üstüne atın.
 
-klasörü cmd üzerinde açın.
+◽klasörü cmd üzerinde açın.
 
-npm install yazın.
+◽npm install yazın.
 
-kurulunca cmd sekmesini kapatın.
+◽kurulunca cmd sekmesini kapatın.
 
-ayarlar.json kendi bot tokeninizi girip kaydedin.
+◽ayarlar.json kendi bot tokeninizi girip kaydedin.
 
-run.bat dosyasını başlatın.
+◽run.bat dosyasını başlatın.
 
-**iletişim: mail@crafwonder.com**
+**iletişim: mail@crafwonder.com.tr**
+**Discord: onur1692**
