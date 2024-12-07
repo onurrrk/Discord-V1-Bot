@@ -1,0 +1,18 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "bot.js"
+  },
+  "author": "onur1692",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^4.6.0",
+    "axios": "^1.7.7",
+    "discord.js": "^14.15.3",
+    "express": "^4.19.2",
+    "opusscript": "^0.0.8"
+  }
+}
