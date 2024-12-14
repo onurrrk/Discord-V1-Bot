@@ -8,8 +8,6 @@ const bot = new morty.Bot({
   events: ["onMessage", "onVoiceStateUpdate", "onInteractionCreate", "onJoin", "onLeave", "onMessageDelete", "onMessageUpdate", "onBanAdd", "onBanRemove", "onGuildJoin", "onFunctionError"],
 });
 
-app.listen(port, () => console.log("Discord Botu Aktif!"));
-
 bot.onBanAdd();
 bot.onBanRemove();
 bot.onChannelDelete();
