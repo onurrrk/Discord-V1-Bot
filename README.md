@@ -1,7 +1,6 @@
 # Discord-V1-Bot
 
-Discord aoi.js bot
-
+aoi.js 4.6.0 discord botu
 # Kurulum
 ◽nodejs 16.20.2 sürümünü indirin.
 
