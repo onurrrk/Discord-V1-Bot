@@ -16,6 +16,6 @@ aoi.js 4.6.0 discord botu
 
 ◽run.bat dosyasını başlatın.
 # İletişim
-**E-Posta: mail@crafwonder.com.tr**
+**E-Posta: **
 
 **Discord: onur1692**
